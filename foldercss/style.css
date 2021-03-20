@@ -1,22 +1,8 @@
-.a {
-width :200px;
-height: 200px;
-background-color: lightgreen;
-margin-left: auto;
-margin-right: auto;
-}
-.b {
-width :100px;
-height: 100px;
-background-color: lightblue;
+div {
+	width :300px;
+	height: :300px;
+	background-color: blue;
+	margin: 20px auto; 
 
-}
-.c {
-width :79px;
-height: 79px;
-background-color: violet;
-}
 
-	body {
-		background-color: red;
-	}
+}	
