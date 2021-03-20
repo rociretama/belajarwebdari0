@@ -1,27 +1,22 @@
-h2{
-	font-family: arial,san-serif;
-	font-size: 90px;
-color: orange;
-	font-variant: small-caps;
-	text-align: center;
-	
+.a {
+width :200px;
+height: 200px;
+background-color: lightgreen;
+margin-left: auto;
+margin-right: auto;
 }
-p{
-font-family: georgia, serif;
-color: purple;
-font-size: 29px;
-text-align: justify;
-
+.b {
+width :100px;
+height: 100px;
+background-color: lightblue;
 
 }
-
-body{background-image: url(../foldercss/d.jpg) ;
-	background-repeat: no-repeat;
-	background-color: lightblue;
-
-	background-position: center;
-
-
-
+.c {
+width :79px;
+height: 79px;
+background-color: violet;
 }
 
+	body {
+		background-color: red;
+	}
